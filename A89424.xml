@@ -1,0 +1,623 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A cry of bloud of an innocent Abel against two bloudy Cains: being a discovery of two cavalier and malignant brothers conspiracy ageinst another brother of the Parliament party. And a short relation of justices of the peace in Cumberland their illegal proceedings against the Parliaments friends. With a complaint of some corruptions and delays in law and Chancery proceedings.</title>
+            <author>Musgrave, John, fl. 1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89424</idno>
+            <idno type="STC">Wing M3146</idno>
+            <idno type="STC">Thomason E731_8</idno>
+            <idno type="STC">ESTC R202932</idno>
+            <idno type="EEBO-CITATION">99863056</idno>
+            <idno type="PROQUEST">99863056</idno>
+            <idno type="VID">115238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89424)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115238)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E731[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A cry of bloud of an innocent Abel against two bloudy Cains: being a discovery of two cavalier and malignant brothers conspiracy ageinst another brother of the Parliament party. And a short relation of justices of the peace in Cumberland their illegal proceedings against the Parliaments friends. With a complaint of some corruptions and delays in law and Chancery proceedings.</title>
+                  <author>Musgrave, John, fl. 1654.</author>
+               </titleStmt>
+               <extent>[2], 22 [i.e. 30] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Musgrave.</note>
+                  <note>P. 30 misnumbered 22.</note>
+                  <note>Annotation on Thomason copy: "March 8th March. 8.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Musgrave, John, fl. 1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115238:1" rendition="simple:additions"/>
+            <p>A CRY of BLOVD OF AN INNOCENT ABEL Againſt Two BLOUDY CAINS <hi>BEING</hi> A Diſcovery of two Cavalier and Malig<g ref="char:EOLhyphen"/>nant Brothers Conſpiracy ageinſt another Bro<g ref="char:EOLhyphen"/>ther of the Parliament Party.</p>
+            <p>AND A ſhort Relation of Juſtices of the Peace in Cum<g ref="char:EOLhyphen"/>berland their Illegal Proceedings againſt the Parlia<g ref="char:EOLhyphen"/>ments FRIENDS.</p>
+            <p>
+               <hi>WITH</hi> A Complaint of ſome Corruptions and Delays in Law and Chancery Proceedings.</p>
+            <p>LONDON: Printed 1654.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:115238:2"/>
+            <pb n="1" facs="tcp:115238:2"/>
+            <head>To the Honourable Major General <hi>Lambert,</hi> one of His Highneſs Councel.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter ſo many various changes and alterations we ſeem to have at length brought our weather beaten ſhip, almoſt overwhelmed with bluſtering ſtorms, and toſſed to and fro with the raging waves of an angry ſea, ſafe, in a fair calm, into the long deſired and expected port of Peace and ſecurity. But now the implacable Adverſary, what he could not effect by the ſword of War, now endeavoureth by fraud and treachery to recover, as the many deſ<g ref="char:EOLhyphen"/>perate Plots and Conſpiracies, before, and now of late diſcover<g ref="char:EOLhyphen"/>ed, do clearly evidence. And the enemy is no wiſe more animated to compaſs his deſign, then by making diviſions and breaches a<g ref="char:EOLhyphen"/>mongſt our ſelves; like the guilefull Greeks, who being hopeleſs after ten years long war, to becom Maſters of famous <hi>Troy,</hi> other<g ref="char:EOLhyphen"/>wiſe then by a wile, bringing into the Town the fatal Horſe, in whoſe bulk the enemy lay hid; by which ſtratagem and deviſe, <hi>Troys</hi> glory and pride were in one night turned into aſhes, while the enemies within the Walls were not to be diſcerned from friends, and friends taken for enemies. We are much in the ſame condition; our enemies in the bowels of the Troyan Horſe are brought by our ſelves within our ſtrongeſt Forts, Strengths, and Guards, I mean, into the higheſt places and Offices of power, tr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t and Judicature in this Commonwealth: How this comes to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſs I underſtand not; I ſee our deareſt, chiefeſt, choiceſt, and moſt faithfull friends and patriots laid aſide, as not worthy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fit to
+<pb n="2" facs="tcp:115238:3"/>be truſted or imployed, or to have the leaſt ſhare or portion of the price or purchaſe of peace, gained with ſo much hazard, with ſuch vaſt ſums and expence of treaſure, and great effuſion and flouds of bloud, with the loſſe of thouſands of precious Saints, and deareſt friends and relations; yet all this ſeems as a thing of nothing, forgotten, and not worthy of remembrance</p>
+            <p>If I alone were concerned, though, life, eſtate, honour, be al<g ref="char:EOLhyphen"/>ready by the enemy ſet at a price, and I as it were by my own, delivered up unto a Company of bloudy men; yet ſhould I be ſi<g ref="char:EOLhyphen"/>lent and mourn in ſecret, for the ungratefulneſſe of thoſe, from whom I have deſerved better, but I am not a ſacrifice which will ſerve to appeaſe the wrath and malice of the Adverſary, unleſſe my friends and family to be made Copartners in the ſame cala<g ref="char:EOLhyphen"/>mitie and deſtruction with me; for whoſe ſake more then my own, I have once more adventured to come upon this publick Theater. I have had many thoughts within my ſelf, to whom to make my addreſſe, and whileſt I was thus unreſolved, <hi>Joſhua</hi>'s gratefull remembrance of <hi>Rahab</hi>'s kindneſſe to his Spies, came in my mind, which comparing with what my aged mother did for you and your Meſſengers or Spies, in their paſſage through the enemies guards and quarters in our country, the ſame doth run in a parallel and adequate line with the other. <hi>Ioſhua</hi> having ſent his Spies to view <hi>Jericho, Rahab</hi> hid and ſecured them for which <hi>Joſhua</hi> upon taking and deſtroying <hi>Jericho,</hi> preſerved <hi>Rahab</hi> and ſaved her kindred and family, with all that was he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and they dwelled in peace with <hi>Iſrael,</hi> as it is written. In your diſtreſſe when the enemy was Maſter of our Country, though ſhe had a <hi>Naball</hi> to her husband, my mother ſhe received, harboured<g ref="char:punc">▪</g> and ſecured your Spies, and ſent them ſafe into <hi>Cockermouth</hi> Cattle to your party there, when you had no other gariſon or ſtr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngth in all that country; by her they returned ſafely and ſecretly to you again, and thereby that Caſtle, when it was upon yielding to the enemy, held out againſt the enemy, untill your forces relie<g ref="char:EOLhyphen"/>ved the ſame, to the recovering of that whole country; and of<g ref="char:EOLhyphen"/>ten my aged mother, gave you timely notice of the enemies mo<g ref="char:EOLhyphen"/>tions and approaches, to the preventing the enemies deſignes againſt you and your men, of all which you are not ignorant: But <hi>Pharaoh</hi>'s Butler, when reſtored to his place, remembred not <hi>Joſeph</hi> horiſon; even ſo hath my mother been forgotten; for
+<pb n="3" facs="tcp:115238:3"/>when your <hi>Jericho</hi> was t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken by you, ſhe was left neglected, to be deſtroyed, not with the enemy, but by the enemy; upon whom you dayly confer honours and promotions: Your promiſes to her you cannot have forgot, neither be ſo ungratefull, as, not when ſhe puts forth the ſcarlet thread, the ſignal of her kindneſs and faithfulneſſe to you and yours, as not to ſecure her from the rage and malice of the enemy. Her requeſt to you is neither for gifts or rewards for her ſelf, or promotion for her ſon; ſhe ask<g ref="char:EOLhyphen"/>eth no other thing then common right, Juſtice, and protection, and that ſhe and hers may dwell in peace with you, as <hi>Rahab</hi> did of old with <hi>Iſrael.</hi>
+            </p>
+            <p>I cannot but remind you of your promiſes made to your ſuffe<g ref="char:EOLhyphen"/>ring friends in <hi>Cumberland,</hi> now under a Delinquent &amp; Malignant Magiſtracy, worſe, and more corrupt then ever was under the late King: I need not tell how thoſe poor people, when the Ene<g ref="char:EOLhyphen"/>my was in his heighth, might, and proſperity, neither by threats nor priſons could he drawn to adhere to thoſe you now pro<g ref="char:EOLhyphen"/>mote, or from you; I hope your Greatneſſe will not make you forget your Goodneſſe, or your former love, neither cauſe you to neglect your friends, but will enquire how their enemies and yours are again ſet up in Authority, whereby they are armed to oppreſſe more then they were under Kingly Prerogative; what is this leſſe then to deliver harmleſſe ſheep to the cuſtody and charge of devouring and hunger ſtarved Wolves. This was the motive, and no other conſideration, to you firſt thus to make my application, in the leaſt not diſtructing Providence for preſervati<g ref="char:EOLhyphen"/>on, though the enemy, as <hi>Haman,</hi> be again advanced, and gained a Decree for deſtroying me with your moſt cordial friends with us; yet, we doubt not, God will cauſe us once again to keep a thankfull day of Remembrance for our deliverance, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Jews did their dayes of <hi>Purym;</hi> who knowes wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lord hath raiſed you up for this end.</p>
+            <p>In this enſuing Diſcourſe, you have a N<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ive of a <hi>Cain</hi> like brood; two Brothers in Law, and a Siſt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>m of a bloud ſuc<g ref="char:EOLhyphen"/>king family, taimed with murther and perjury, who for many yeares have with much villany and treachery ſundry wayes at<g ref="char:EOLhyphen"/>tempted the death and downfall of an innocent brother, for no other cauſe then his kindneſſe ſhewed to an aged Mother, by the other ſpoiled in one day of all her means, where occaſion is offer<g ref="char:EOLhyphen"/>ed
+<pb n="4" facs="tcp:115238:4"/>to ſet forth the malice and conſpiracy againſt me, of ſundry Malignant Juſtices of the Peace in Cumberland, for my oppoſing their injuſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce and oppreſſion, and diſcovering their Delinquen<g ref="char:EOLhyphen"/>cy and treacherous Plots and practiſes againſt this Common<g ref="char:EOLhyphen"/>wealth, and the manner of liſting of ſome dangerous perſons in the Lord Protectors Life-Guard, ſuch as for fear of diſcovery dare not own their own names. Likewiſe I am conſtrained to declare ſome evil dilatory practiſes and proceedings of Chance<g ref="char:EOLhyphen"/>ry, and Law proceedings, in relation to my ſelf and ſome friends, with the cauſes for publiſhing the ſame; which if you improve for publick good<g ref="char:punc">▪</g> as redreſſe of private wrongs, I ſhall rejoyce. However, my confidence is in my God, and though he ſhould ſlay me, yet will I truſt in him; for the devices of the wicked ſhal not proſper, and by their own Counſels they ſhall be deſtroyed.</p>
+            <closer>
+               <signed>JOHN MVSGRAVE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:115238:4"/>
+            <head>The Cry of ABELS Bloud again from the Ground.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not unknown to thoſe who have read the Hi<g ref="char:EOLhyphen"/>ſtory of <hi>England,</hi> that few in the North for ſervice done againſt the Scot; deſerved better, or were greater aſſerters of their countries liberty, then the family of the <hi>Muſgrave</hi>'s, men of good eſtates, and large Revenues; of whom <hi>Speed</hi> in his Chronicle takes ſpecial no<g ref="char:EOLunhyphen"/>tice with this Character, <hi>The Ancient and Warlike Family of the Muſ<g ref="char:EOLhyphen"/>graves.</hi>
+            </p>
+            <p>Sir <hi>Simon Muſgrave</hi> my Grandfather, ſerved Queen <hi>Elizabeth</hi> upon thoſe Borders, as Deputy Warden for many years; after his death the Queen was pleaſed to honour my father with that imployment, in which ſervice he ſo behaved himſelf, as he pre<g ref="char:EOLhyphen"/>ſerved the borders from the Inrodes of the Scots and Rapines of the Outlaws of both Nations there, with whom that Country in thoſe times were infeſted; I purpoſe not at this time to par<g ref="char:EOLhyphen"/>ticularize the known ſervices, and the great executions my fa<g ref="char:EOLhyphen"/>ther did upon ſome eminent Scots, enemies to our Nation; for which he brought upon himſelf the envy of King <hi>James,</hi> and moſt of the Scots Nobility, who after the old Queens death watched for an opportunity to ruine my father and deſtroy his family, and how hard a matter it is to ſtand before envy, or bear the wrath of a King, the prudent may conſider. Now about the 5<hi rend="sup">th</hi> year of K. <hi>James</hi>'s reign here in England, one <hi>Thomas Muſgrave</hi> a diſſolute looſe man, and one <hi>Puckering</hi> more deboiſt, drew in<g ref="char:EOLhyphen"/>to their company Sir <hi>Thomas Muſgrave,</hi> a young Gentleman, and the eldeſt ſon of Sir <hi>Richard Muſgrave</hi> my Grandfathers ſecond ſon; theſe fell upon the Kings Receivers in <hi>Weſtmerland,</hi> and rob<g ref="char:EOLhyphen"/>bed them, and the night after came to my fathers houſe in <hi>Cum<g ref="char:EOLhyphen"/>berland,</hi> and lodged there, my father being then at <hi>Ednell,</hi> igno<g ref="char:EOLhyphen"/>rant both of the fact done, and their being at his houſe, as ano<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:115238:5"/>of the ſame name, who ſuffered for that fact, at his death did ſolemnly declare.</p>
+            <p>
+               <hi>Robinſon</hi> then Biſhop of <hi>Carliſle,</hi> knowing how pleaſant a thing i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would be to the King, to bring my father within the compaſſe of the Law, procures <hi>Puckering</hi> a pardon to become an approver againſt my father to evidence that he was privy of their being at his houſe after the fact done, more they could not have any colour for King <hi>James</hi> glad of this, doth forthwith cauſe a ſpecial Gaol Del<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very to be called for tryal of my father, and ſent down as Commiſſioners the Earl of Dunbar, with ſund<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y o<g ref="char:EOLhyphen"/>ther Lords to carry on the deſign, he well knowing that upon an equal tryal my father would be in no jeopardy, and the King a moneth before the Tryal ſigns a Warrant for execution, to pre<g ref="char:EOLhyphen"/>vent all Reprieval<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, all which was with much celerity perform<g ref="char:EOLhyphen"/>ed according to the Kings direction; but the great ſignal Teſti<g ref="char:EOLhyphen"/>monies of my fathers innocency, and the Countreys diſlike of thoſe extraordinary proceedings, much diſco<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tented the King, and the Court faction, my father left an eſtate ſetled upon my mother &amp; his children of 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> by year, held by leaſe for 3 lives, which King <hi>James</hi> would have ſeized on, but upon Tryall in the Exchequer, poſſeſſion was eſtabliſhed with her.</p>
+            <p>Afterwards my mother, by perſwaſion of friends, to her chil<g ref="char:EOLhyphen"/>drens undoing, marries one <hi>Vaux,</hi> a Gent. of ancient, but moſt wicked bloudy family, having no eſtate at all: For <hi>Wil. Vaux,</hi> his father, having in a moſt barbarous and unheard of manner, mur<g ref="char:EOLhyphen"/>thered one <hi>Ridley,</hi> ſuffered for the ſame, and did confiſcate his whole eſtates And not long before, <hi>Rowland Vaux,</hi> father of <hi>Wil<g ref="char:EOLhyphen"/>liam,</hi> procured one <hi>Bell</hi> to perſonate two, and procured a forged Acquittance for a debt of 100 <hi>
+                  <abbr>l.</abbr> Rowland</hi> owed to a Kinſwoman; for which perju<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>Bell</hi> loſt his ears, and for the forgery and ſub<g ref="char:EOLhyphen"/>ornation <hi>Vaux</hi> wore Paper, and rode backward, my Grandfa<g ref="char:EOLhyphen"/>ther being then High Sheriff at the time of the execution of the ſentence. I would have forborn thus to have untombed the dead, if I had not by a wicked Siſter been provoked thereto,</p>
+            <p>Now for twenty years together, <hi>Vaux</hi> in my fathers childrens right, held an eſtate of 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> by year, for which we never had any accompt; in which time he purchaſed the Reverſion of the whole with our moneys: for which calling him to accompt, I was with a 22 years conſuming ſuits in Law, weſted and ſpent, and yet is not come to any iſſue,
+<gap reason="illegible: missing" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:115238:5"/>
+               <hi>Vaux</hi> in the beginning of the difference, the more to diſable me to proſecute my Cauſe, beats my mother, would have killed her with an hatchet, put her out of doors, and would have ſuborned witneſſes to have ſworn, <hi>That ſhe and I would have murthered him,</hi> as ſome of the witneſſes yet living do confeſſe.</p>
+            <p>The particular Proceſſe and proceedings betwixt us, I ſhall refer to another diſcourſe; and of old <hi>Coventries</hi> in juſtice, King <hi>Charles's</hi> Order in the Caſe, being not the thing I deſire now to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rge or preſſe. While I was in this private conteſt, a Parliament is called, by which for a while I was as one raiſed from the dead; but the Kings leaving his Parliament, was the cauſe of new Troubles to me; for upon my comming from <hi>London,</hi> I was com<g ref="char:EOLhyphen"/>mitted to <hi>Carliſle</hi> Caſtle, for no other cauſe but that I ſaid the Earl of Strafford was condemned for Treaſon.</p>
+            <p>But when the Commiſſion of Array <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſet a foot in our County, then my father <hi>Vaux</hi> doubted not but to bring me to ruine, knowing I was affected to, and had declared for the Par<g ref="char:EOLhyphen"/>liament, and the better to compaſſe this end, he procured one <hi>Richmond</hi> (whoſe ſon after married his daughter, and my ſiſter) at the Seſſions of the Peace to put that illegal oath upon me, cal<g ref="char:EOLhyphen"/>led the oath <hi>ex Officio,</hi> which I refuſing was committed to cloſe Gaol, and then <hi>Richmond</hi> cauſed me to be indicted for ſpeaking blaſphemous words againſt the book of Common Prayer, <hi>viz.</hi> that it was Popiſh; but this having not colour to take away my life, the next Seſſions I was called forth, and then <hi>Richmond</hi> commands me to take the Oath of <hi>Supremacy,</hi> which I refuſing twice, I was returned back to the Gaol, committed for Trea<g ref="char:EOLhyphen"/>ſon; upon this <hi>Richmond</hi> conſpires with Sir <hi>Richard Graham,</hi> who had married his daughter to Sir <hi>Edward Muſgrave</hi>'s grand<g ref="char:EOLhyphen"/>child, who wrongfully held an eſtate from my mother, being her birth-right of 600 <abbr>
+                  <hi>l.</hi>
+               </abbr> by year, to procure a ſpecial Gaol De<g ref="char:EOLhyphen"/>livery, for the Tryal of me and Captain <hi>Crakanthorp,</hi> for the like offence; but knowing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow fatal <hi>Cumberland</hi> Gaol Deliveries were to the innocent, with much difficulty we obtained a Writ of <hi>Habeas Corpus cum cauſa,</hi> which we delivered to Sir <hi>Henry Flet<g ref="char:EOLhyphen"/>cher,</hi> then high Sheriff, and to whom we were priſoners, there<g ref="char:EOLhyphen"/>with he acquainted, Sir <hi>George Dalstin,</hi> Sir <hi>Thomas Dacres,</hi> Sir <hi>William Muſgrave</hi> Knights, <hi>Leonard Dikes, William Briſcoe,</hi>
+               <abbr>Eſq</abbr>
+               <pb n="8" facs="tcp:115238:6"/>and other Juſtices of the Peace, who diſwaded the Sheriff from returning our bodies according to the tenor of the Writ, and ſent to London a Certificate, that the reaſon of diſobeying the Writ of <hi>Habeas corpus,</hi> was, for that we had committed Treaſon againſt the King, in refuſing the Oath of Supremacy: But the Court being not ſatisfied, granted us another Writ with a pe<g ref="char:EOLhyphen"/>nalty. Upon knowledge of this, the Juſtices complained to the King, being then at <hi>York,</hi> how they had impriſoned us as dange<g ref="char:EOLhyphen"/>rous perſons, and enemies to his Majeſty, deſiring his direction and Warrant to try us for Treaſon, the <hi>Habeas corpus</hi> notwith<g ref="char:EOLhyphen"/>ſtanding; but the King would not give any direction therein. In the mean time the Aſſizes approached, ſo they could not fit the G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d livery.</p>
+            <p>At the Aſſizes Sir <hi>Robert Heath</hi> delivered the Goal, and we be<g ref="char:EOLhyphen"/>ing brought to the Bar, Judge <hi>Heath</hi> declared, the Juſtices could not enforce us to the Oath of Supremacy, without a ſpecial Commiſſion under the Great Seal; yet gave Judgement of <hi>Pre<g ref="char:EOLhyphen"/>munire</hi> againſt us, to forfeit Lands and Goods, and impriſonment during life, for no other cauſe then refuſing to take the Oath of Allegiance upon a Book; and gave the Sheriff direction, not to ſuffer any to come at us, and cloſe impriſonment. But upon the Treaty of a Peace betwixt the King and Parliament, a little be<g ref="char:EOLhyphen"/>fore <hi>Edgehil</hi> fight, the Sheriff took ſecurity of us, to appear upon the <hi>Habeas corpus</hi> at the Upper Bench Bar; which we did accor<g ref="char:EOLhyphen"/>dingly, and after was diſcharged by Order of the Houſe of Com<g ref="char:EOLhyphen"/>mons. Upon our return home, the war and difference betwixt King and Parliament growing great and high, Sir <hi>Philip Muſ<g ref="char:EOLhyphen"/>grave</hi> gave order to apprehend us again; of which having notice, I leſt the Countrey, and in my way was taken priſoner by one <hi>Bennet,</hi> ſervant to Sir <hi>John Lowther</hi> (a Commiſſioner of Array, and Collonel for the King) and three other, charging me with a conſpiracy and Treaſon againſt the King and Sir <hi>John Lowther;</hi> from whom I made an eſcape, but loſt my Horſe, Sword, and Cloak. In the time of my withdrawing, my Father <hi>Vaux</hi> offered 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> to any that could diſcover and apprehend me. After, with much difficulty I got into <hi>Sco<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land,</hi> and there I was threatned by <hi>Thomas Craiſtour,</hi> for my non-conformity to the Scotiſh Preſ<g ref="char:EOLhyphen"/>bytery, that he would inform againſt me if I did not withdraw.</p>
+            <p>While I was in <hi>Scotland,</hi> I diſcovered how <hi>John Barwis,</hi> and
+<pb n="9" facs="tcp:115238:6"/>
+               <hi>John Hod<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon</hi> pretenders for the Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>liaments <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aiſſe, kept ſto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es correſpondency with Sir <hi>Patricius Curwin,</hi> and Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Wilfride Law<g ref="char:EOLhyphen"/>ſon</hi> then Commiſſioners of Array, and in Arms againſt the Par<g ref="char:EOLhyphen"/>liament, and how <hi>Richard Barwis</hi> a Member of the Houſe of Commons kept correſpondency with Sir <hi>Richard Graham,</hi> and Sir <hi>Edward Muſgrave,</hi> and other the known enemies of the Par<g ref="char:EOLhyphen"/>liament: All which I after made known to the Parliament; but by <hi>Barwis</hi> faction or party in the Houſe of Commons, to hinder my proſecution, I was committed by an Order of the Houſe, to the Fleet, for a pretended contempt, in refuſing to anſwer Intero<g ref="char:EOLhyphen"/>gatories; where I was kept cloſe priſoner, without any charge or other crime laid againſt me, for the moſt part of two years. Upon the difference betwixt the Parliament and the Army, I re<g ref="char:EOLhyphen"/>fuſed no hazard to ſerve the Agitators, who then acknowledged the ſervice I did in promoting their Cauſe, was acceptable to them; and the Lord General <hi>Fairfax</hi> with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Councel of Offi<g ref="char:EOLhyphen"/>cers, ſent to the Parliament to ſet me at liberty, and that he ex<g ref="char:EOLhyphen"/>pected I ſhould have fitting reparations for my loſſes and impri<g ref="char:EOLhyphen"/>ſonment; whereupon I was enlarged, but never had any ſatis<g ref="char:EOLhyphen"/>faction for my loſſes and impriſonment to this day.</p>
+            <p>After this, I made ſundry diſcoveries of concealed Delin<g ref="char:EOLhyphen"/>quents, and brought into the publick Treaſury more then 2000 <abbr>
+                  <hi>l.</hi>
+               </abbr> for the undervalue of Sir <hi>Henry Bellingham</hi>'s eſtate, whereof the fifth part was due to me, for which I have not had one penny, my other diſcoveries amounting to above 10000 <abbr>
+                  <hi>l.</hi>
+               </abbr> a great part whereof was ſecured by the ſub-Commiſſioners, who refuſed to certifie the ſame being required thereunto by the Commiſſioners for comp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unding, the other alledging the Commiſſioners for Compounding never intended good to the Common-wealth, and ſo they would certifie no more to them, and thus I was hin<g ref="char:EOLhyphen"/>dred from further proſecuting my diſcoveries till by the Act of Ob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivion the ſame were diſcharged: after this I began to apply my ſelf to my own private affairs, having unprofitably ſpent my time, wearied my ſelf, and waſted my means to do my coun<g ref="char:EOLhyphen"/>try ſervice; while others by their beneficial places inriched them<g ref="char:EOLhyphen"/>ſelves in the ruines of their country, and falſifying their faith and truſt.</p>
+            <p>In the mean time my father <hi>Vaux</hi> (having ſetled his eſtate and lands upon his two ſons in law, <hi>Richmond</hi> and <hi>Graham,</hi> while
+<pb n="10" facs="tcp:115238:7"/>they were in actual rebellion againſt the Parliament, to defraud me of my right, amounting to above 2000 <abbr>
+                  <hi>l.</hi>
+               </abbr> I being in my way from <hi>London</hi>) died; preſently after <hi>Richmond</hi> applied himſelf to my mother, blaming his father <hi>Vaux</hi> for his cruelty to her and her children; profeſſing all love and reſpect, deſiring as he pre<g ref="char:EOLhyphen"/>tended to come to a ſettlement, faithfu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly promiſing if upon my return home, I diſapproved what ſhou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d be agreed on, no ad<g ref="char:EOLhyphen"/>van<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age ſhould be taken on either ſide, but his meaning was far otherwiſe, his intention being to circumvent her and ſtrip her out of all, as the ſequel doth prove, for the viſible perſonal e<g ref="char:EOLhyphen"/>ſtate being valued to about 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> he and <hi>Graham</hi> divided it be<g ref="char:EOLhyphen"/>twixt them under a colour that there was a debt of 200 <abbr>
+                  <hi>l</hi>
+               </abbr> due to M<hi rend="sup">r</hi>. <hi>Heron</hi> of <hi>Chipchaſe,</hi> which with great oaths and many aſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>verations he did aver to be true, and that M<hi rend="sup">r</hi>. <hi>Heron</hi> had threatned to put the Bond in ſuit, all which was forged and a lie; for upon a Bill of diſcovery in Cham<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery M<hi rend="sup">r</hi>. <hi>Heron</hi> hath upon Oath confeſſed <hi>Vaux</hi> did ow him no ſuch ſumme nor other debt.</p>
+            <p>Then <hi>Richmond</hi> intreated my mother to let him and his wife have liberty to lie in her houſe ſome time, which ſhe not mi<g ref="char:EOLhyphen"/>ſtruſting his guile gave way to him<g ref="char:punc">▪</g> ſoon after I returned home, to my mother, ſhe telleth me how her ſons in law and daughters in law had uſed her, and that the bond ſhe gave <hi>Richmond</hi> and <hi>Graham</hi> was delivered with caution, in caſe I diſliked the agree<g ref="char:EOLhyphen"/>ment, the ſame to be void; then I cauſed her to take the locks off her Chamber which <hi>Richmond</hi> had ſet on, and made a legal and peaceable entry to them, for the widdow hath her quarantine, which is the poſſeſſion of the chief Manſion houſe for forty days; and when the entry was made, we had ſundry honeſt neighbours to take view of what was in the room to avoid miſ-reports, and the next day I went with my mother to <hi>Graham</hi> houſe, the better to confirm my ſelf of the tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of the agreement, who told me the bond was delivered with the caution aforeſaid, and that up<g ref="char:EOLhyphen"/>on conſideration my mother would make void the agreement he would keep her harmleſſe, and upon requeſt releaſe the bond, and further declared, he did beleeve <hi>Richmond</hi> intended to cheat both him and her.</p>
+            <p>Upon his further requeſt, my mother conſented to go the next day to one <hi>Dacres</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>nthank,</hi> where <hi>Richmond</hi> was to meet him,
+<pb n="11" facs="tcp:115238:7"/>and agreed, that if <hi>Richmond</hi> would not yeeld my mother and <hi>Grahams</hi> Right, they would joyn together in ſecuring the goods: But upon our comming thither, <hi>Dacres</hi> after ſome private words with them, came to my mother, deſiring to be excuſed, for the Trunks her Husband had left with him, by direction were not to be opened, till her ſons in Law both agreed to it, but ſhe ſhould not be preſent. Thus ſhe was thruſt out, and made a ſtranger to h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r own; for by the Cuſtom of the Province of <hi>York,</hi> the Wid<g ref="char:EOLhyphen"/>dow is to have half the perſonal Eſtate, if the children be preferred or married. There it is ſaid the two brothers found ſome Writings, purporting large ſummes of moneys to be left by <hi>Vaux</hi> in <hi>Dacres</hi> hand; which at firſt <hi>Dacres</hi> denied; but after ſome threats, <hi>Dacres</hi> acknowledged 60 <abbr>
+                  <hi>l.</hi>
+               </abbr> and the 160 <abbr>
+                  <hi>l.</hi>
+               </abbr> where<g ref="char:EOLhyphen"/>with they charged him more, <hi>Richmonds</hi> wife perſwaded the o<g ref="char:EOLhyphen"/>ther to remit, and they gave <hi>George Sy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pſon,</hi> M<hi rend="sup">r</hi>. <hi>Vaux</hi> ſiſters ſon, 100 <abbr>
+                  <hi>l.</hi>
+               </abbr> of the moneys in <hi>Dacres</hi> hand, being privie to their Coun<g ref="char:EOLhyphen"/>ſel. All which, <hi>Richmonds</hi> wife hath to ſundry of her friends and acquaintance privately told who have ſince diſcovered the ſame.</p>
+            <p>Upon this the two brothers in Law confederated together a<g ref="char:EOLhyphen"/>gainſt the old woman, and <hi>Richmond</hi> gave forth in ſpeeches, that my mother and I had broken a cheſt up in the chamber, and ta<g ref="char:EOLhyphen"/>ken out Fourty ſhillings, for which he would hang us both; and ſaid, his man did ſee him lay it and leave it there; who being as<g ref="char:EOLhyphen"/>ked what he knew thereof, replyed, he knew nothing thereof, neither did he beleeve any ſuch thing. As for the Trunk, upon our entry it was viewed, with all within the ſame, by able and honeſt men, whereof not any thing lacked, the trunk being open, and had been without Lock for 40 years and more.</p>
+            <p>Next day I went towards <hi>Mancheſter,</hi> and returned not for ten days. In the mean time, <hi>Richmond</hi> thinking I was gone for <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> goes to M<hi rend="sup">r</hi>. <hi>Howard,</hi> and procures a Warrant from him to bring me and one <hi>Proctor</hi> before him, charging us with Fe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ony: Upon his Warrant <hi>Proctor</hi> is carried as a Thief to <hi>Naward,</hi> ſome 16 or 18 miles, thence to <hi>Carliſle,</hi> being from <hi>Naward</hi> 10 miles, and back again to <hi>Naward,</hi> where he gave ſecurity for his appear<g ref="char:EOLhyphen"/>ance: in all this much wickedneſſe and cruelty is diſcovered; for there were two Juſtices of the Peace living within leſſe then two miles of us, but we muſt be carried before none but <hi>Howard.</hi>
+            </p>
+            <p>The next paſſage that was attempted againſt my Mother, was
+<pb n="12" facs="tcp:115238:8"/>this: <hi>Richmond</hi> and his wife comes to my mothers houſe, think<g ref="char:EOLhyphen"/>ing with railings and revilings to have provoked her to paſſion; but their expectation failing, <hi>Richmonds</hi> wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e laid violent hands upon her own mother, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar her, and called her Whore: The old woman being ready to faint, one preſent cryed out, <hi>Fie</hi> Mabel, <hi>have ſon never read the Fifth Commandement?</hi> the other anſwered in fury <hi>She knew not what the Commandements were, ſo ſhe had a fa<g ref="char:EOLhyphen"/>ther and mother that taught her neither the fear of God nor Man.</hi>
+            </p>
+            <p>Some two days after this, <hi>Richmond</hi> with ſome four or ſix more, in a forcible and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tous manner, takes away the Court gate, the Hall door, and carried them away with him, thereby to fright her away, and reported M<hi rend="sup">r</hi>. <hi>Howard</hi> adviſed him to do it; <hi>Wicked counſel.</hi>
+            </p>
+            <p>No<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long after, I came home; and being in bed in this open houſe, I heard in the Hall much people, whereupon I called to know the buſineſſe; the Conſtable came to me, and told me he had a Warrant to arreſt me for Felony. I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſe, and find a poor lame Widdow, that ſerved my mother, under arreſt likewiſe for Felony, as the Conſtable ſaid; moſt of <hi>Richmonds</hi> Tenants being there, to the number of 20 or 30; I ask o them why ſo many? they anſwered, <hi>Richmond</hi> commanded, and that the Conſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble would early in the morning take me, otherwiſe I would flie, if notice were given me. With this Guard am I carried by the Con<g ref="char:EOLhyphen"/>ſtable to <hi>Penreth,</hi> a market Town, on a Market day, before M<hi rend="sup">r</hi>. <hi>Halton<g ref="char:punc">▪</g>
+               </hi> who upon reading M<hi rend="sup">r</hi>. <hi>Howards</hi> warrant, would take no knowledge of me, ſo away I am carried to <hi>Naward;</hi> Which man<g ref="char:EOLhyphen"/>ner of doing of theirs was much like the J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ws carrying of Chriſt to <hi>Caiphas,</hi> who ſent him to <hi>Pilate, Pilate Herod,</hi> and ſo back again. When I came before <hi>Howard,</hi> he told me, <hi>Richmond</hi> bad ſworn Felony againſt me, and ſome witneſſes were examined a<g ref="char:EOLhyphen"/>gainſt me, who ſpeaking ruth, he refuſed to ſet down or teſtifie the ſame, ſaying, that party ſpake more for me then <hi>Richmond,</hi> Yet brought before him by his Warrant: I enter Bond for my appea<g ref="char:EOLhyphen"/>rance the next Aſſizes, paying my fees. The nex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Seſſions <hi>Richmond</hi> in my abſence prefers a Bill of Felony againſt me and <hi>Proctor,</hi> which the Jury not finding, are called before the Juſtices, who threatened the Jury for not finding the ſame; and one of the <hi>Quorum</hi> told the Jury, they muſt find the Indictment, right or wrong: But moſt of the Jury being underſtanding men, would
+<pb n="13" facs="tcp:115238:8"/>not be perſwaded or frighted to act contrary to a good Conſel<g ref="char:EOLhyphen"/>ence, finds not the Bill; notwithſtanding, the Juſtices granted <hi>Richmond</hi> a Warrant of good behaviour againſt me, without Oath or Articles; againſt others they would not, though indict<g ref="char:EOLhyphen"/>ed, which diſcovered their malice to me, and corruption. Upon a <hi>Certiorari</hi> after in the Upper Bench, I was diſcharged, never any thing to this day being objected againſt me.</p>
+            <p>My occaſion ſoon after drew me to <hi>Lond<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n;</hi> in my abſence <hi>Richmond</hi> dayly vexes my aged mother with opprobrious rail<g ref="char:EOLhyphen"/>ings, threatening her he would reduce her to that poverty and want, as for fleſh ſhe ſhould be conſtrained to boyl a Louſe, and for malt to brew Sand; often ſtaring in her face, after crying, Mo<g ref="char:EOLhyphen"/>ther, mother, Death is in thy face, thou wilt not live til Eaſter: the Juſtices of the Peace much animating him in this courſe againſt my mother and me, as he bragged, all the Juſtics of the Peace, Commiſſioners for Sequeſtrations, Sir <hi>Arthur Haſlerig</hi> and Cap<g ref="char:EOLhyphen"/>tain <hi>Howard</hi> would all adhere to him againſt me.</p>
+            <p>Upon my return from <hi>London,</hi> the Aſſizes approaches; <hi>Rich<g ref="char:EOLhyphen"/>mond</hi> now beſtirs himſelf, procures the Sheriff to return of the Grand Jury, 14 of 17, all compounded Delinquents, and moſt <hi>Richmonds</hi> neare relations, one being <hi>Grahams</hi> father, ano<g ref="char:EOLhyphen"/>ther <hi>Grahams</hi> ſon in Law, moſt of the reſt bitter ſpirited Cava<g ref="char:EOLhyphen"/>liers; but one man reaſoned all the reſt out, and the Bil againſt me was not found: the one of the Jury would have had it, proteſting that he would find it againſt the Roundhead, whether it was right or wrong.</p>
+            <p>I made my addreſſe to Juſtice <hi>Puliston,</hi> in a peti ionary way, that <hi>Richmond</hi> might not diſquiet my mother with his boyſter<g ref="char:EOLhyphen"/>ous and uncivil carriage, but he more like a party then a Judge, ſlighted my Petition, asked how it came to p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe I was not gone beyond ſeas with <hi>John Lilburn,</hi> to which I replied, I had other buſineſſe then to mind, and further ſaid, when theſe Gentlemen by him, meaning Captain <hi>Howard,</hi> and the other Juſtices by oaths and actions, confederated to deſtroy the Parliament as Traitors, I at their Bar owned there Authority; but Traitors are promoted and your friends ſlighted, yet <hi>God is good. Rich<g ref="char:EOLhyphen"/>mond</hi> turns his Indictment of Felony, after not found, into an in<g ref="char:EOLhyphen"/>dictment of Treſpaſſe, which the Juries finds, and being called, I traverſe it; upon Serjeant <hi>Parkers</hi> motion, all differences were
+<pb n="14" facs="tcp:115238:9"/>referred to Sir <hi>John Lowther</hi> and Mr. <hi>Halton,</hi> but when we meet, hen <hi>Richmond</hi> asked my mother why ſhe would buſie her ſelf for death was in her face, and <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aham</hi> his brother did challenge me to ſight with him on <hi>Penreth</hi> Fell, thinking to get ſome advan<g ref="char:EOLhyphen"/>tage upon me by provoking me to paſſion or accepting the chal<g ref="char:EOLhyphen"/>lenge; upon a common Latitat <hi>Richmond</hi> bringeth the Sheriff in perſon, and arreſted my mother, and had carried her to Gaol, but an Attorney told the Sheriff he cou'd not, for he was an At<g ref="char:EOLhyphen"/>torney and would appear for her; but we cou'd never have the Sheriff to this day execute any Writ againſt <hi>Richmond.</hi>
+            </p>
+            <p>To free my mother of <hi>Richmoxd</hi> diſturbances, I brought her from <hi>Catterlen</hi> Hall, being made unhabitable as aforeſaid, and ever ſince ſhe hath dwelt with me.</p>
+            <p>The laſt Aſſiz s at <hi>Carliſle</hi> my mother had two trials for her Dowry, the one againſt <hi>Graham,</hi> the other againſt <hi>Richmond,</hi> be<g ref="char:EOLhyphen"/>fore my old friend Juſtice <hi>Puliſton;</hi> I appearing for my mother Juſtice <hi>Puliston</hi> began to check me, telling me I never dealt but in bad cauſes, and that he met me at every Bar in <hi>Weſtminster Hall,</hi> the Jury being to be ſworn, one of the Panel would not ſwear upon a book, whereupon the Judge bid ſet him aſide, for that man was one of <hi>Muſgrave's</hi> faction, the man being a ſtranger to me; abou which a great conteſt I had before he was admi ted to be ſworn, Mr. <hi>Vaux</hi> dying ſeized was proved by <hi>Richmond</hi> and <hi>Grahams</hi> anſwers to my mothers Bill of Diſcovery. Then Juſtice <hi>Puliston</hi> asked me when <hi>Vaux</hi> died; to which I anſwered about the third of <hi>March</hi> was a twelve moneth. Then ſaid the Jugd, Are you ſure M. <hi>Vaux</hi> died the third of <hi>March?</hi> To which I anſwered, my Lord, I came out of <hi>London</hi> about the 13 or 18 of <hi>March,</hi> and before I got home M<hi rend="sup">r</hi> 
+               <hi>Vaux</hi> was dead, ſo I cannot ſpeak certainly to the time, but I beleeve he died about the 3 4, or 5<hi rend="sup">th</hi> of <hi>March;</hi> or thereabouts: then ſaid the Judge, M<hi rend="sup">r</hi>. <hi>Muſgrave</hi> what would you ſay if he died in <hi>April?</hi> I replied, my Lord, I cannot ſpeak poſitively to any time, but ſure <hi>I</hi> am he is dead; all which will be proved by Gentlemen of quality well affected and untainted in their reputations, which for the ſatisfaction of friends, ſome of them have certified as much, which <hi>I</hi> have here inſerted.</p>
+            <p>
+               <hi>Theſe are to certifie, we whoſe names are here under-written upon the</hi> 16 <hi>day of</hi> Auguſt, 1653. <hi>were preſented at the Tryal had at</hi> Car<g ref="char:EOLhyphen"/>liſle <hi>before Mr. Juſtice</hi> Puliſton, <hi>betwixt</hi> Iſabel Vaux <hi>Widow De<g ref="char:EOLhyphen"/>mandant,
+<pb n="15" facs="tcp:115238:9"/>upon a Writ of Dowery againſt</hi> William Graham <hi>Defendant, when and where we ſee</hi> John Muſgrave <hi>of</hi> Miln<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rig <hi>in the County of</hi> Cumberland <hi>Gentleman, ſworn a Witneſson the behalf of the ſaid De<g ref="char:EOLhyphen"/>mandant</hi> Iſabel Vaux <hi>in the ſaid cauſe, and the ſaid</hi> John Muſgrave <hi>being asked when the ſaid</hi> John Vaux, <hi>late husband of the ſaid</hi> Iſabel <hi>died, the ſaid</hi> John Muſgrave, <hi>ſaid upon his oath that the ſaid</hi> John Vaux <hi>died about the</hi> 3<hi rend="sup">d</hi> 
+               <hi>of</hi> March <hi>was a twelve moneth, then the ſaid Justice</hi> Puliſton <hi>ſaid Mr.</hi> Muſgrave, <hi>are you ſure Mr.</hi> Vaux <hi>died the</hi> 3<hi rend="sup">d</hi> 
+               <hi>of</hi> March, <hi>to which the ſaid Mr.</hi> Muſgrave <hi>replied and ſaid, my Lord, I came out of</hi> London <hi>about the</hi> 13 <hi>or</hi> 18 <hi>of</hi> March <hi>(or words to that purpoſe) and before I got home Mr.</hi> Vaux <hi>was dead, ſo I cannot ſpeak certainly to the very time of his death, but I beleeve he died about the</hi> 3, 4, <hi>or</hi> 5 <hi>or thereabouts: then ſaid the Judge Mr.</hi> Muſgrave, <hi>what will you ſay if he died in</hi> April, <hi>Mr.</hi> Muſgrave <hi>replied and ſaid, my Lord, I cannot ſpeak poſitively to any time (or words to that effect) but I'm ſure he is dead, and this is the whole ſum of Mr.</hi> Muſgraves <hi>Oath and Depoſition, other then proving ſome copies of Records; we being preſent in Court at the time of the ſaid Tryal, from the ſwearing of the Jury till they gave up their Ver<g ref="char:EOLhyphen"/>dict, which we ſhall be ready to teſtifie when we ſhall be thereunto requi<g ref="char:EOLhyphen"/>red. In witneſſe whereof, we have ſubſcribed our hands the</hi> 10<hi rend="sup">th</hi> 
+               <hi>day of October,</hi> 1653. This is the great P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rjury <hi>I</hi> am charged with.</p>
+            <p>At <hi>Michaelmas</hi> Seſſions held at <hi>Cockermouth,</hi> Octob. 5. 1653. in my abſence <hi>Richmond</hi> prefers a Bill of Perjury upon this againſt me, whereof Captain <hi>Hudſon</hi> now a Juſtice of Peace hearing, who was preſent at the Trial, repaired to the Jury, wiſhing them well to conſider what they did upon that indictment againſt me in my abſence, for there was more malice then matter in the proſecution; the Jury told him, they had examined the matter and they could not find it, but the Juſtices of the Bench being moſt of them my implacable enemies, called the Jury before them, and would have the witneſſes ſworn in open Court, but the Sheriff and Bailifs put back all thoſe whom they ſuſpected to favor me; M<hi rend="sup">r</hi> 
+               <hi>Lamplough</hi> one of the Juſtices told the Court, there was an Order of Seſſions, that no indictment was to be admitted againſt any inhabitant, without notice firſt given to them; which then they admitted to others, but denied in my caſe: Mr. <hi>Howard</hi> hath cauſed him ſince to be put out of the Commiſſion of peace, for no other cauſe as I beleeve but this, and ſuſpecting him to be a man of too publike a ſpirit to comply with <hi>Howard</hi> and his
+<pb n="16" facs="tcp:115238:10"/>popiſh faction; and others of the moſt diſ-affected and known Deli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quents, he hath procured to be Juſtices of the Peace, refu<g ref="char:EOLhyphen"/>ſing to put in ſome very honeſt &amp; able men recomended to him.</p>
+            <p>One of the Jury told the Court M. <hi>Muſgrave</hi> might miſtake the month, and not ſwear either corruptly or wilfully; to which M. <hi>Briſcoe</hi> and Sheriff <hi>Lawſon</hi> ſaid, there was ſom would have al to be miſtakes ſo after <hi>Richmond</hi> was admitted privatly to tamper with ſome of the jury, the indictment was found, I being in my way from <hi>London:</hi> The witneſſes ſworn to the indictment, were one <hi>Dacres</hi> above-named, <hi>Thomas Ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th</hi> an Attorney (how much con<g ref="char:EOLhyphen"/>ſcience he makes of an oath, after I ſhall diſcover) and one <hi>Or<g ref="char:EOLhyphen"/>fear,</hi> and how qualified he is for ſuch a purpoſe here will ap<g ref="char:EOLhyphen"/>pear; I will begin with the laſt.</p>
+            <p>
+               <hi>Orfear</hi> was firſt a plundering Cavalier captain for the King, till the county was reduced for the Parliament, then entertain<g ref="char:EOLhyphen"/>ed by <hi>Lawſon</hi> as captain under him for the parliament; daily he reſorted to the Enemies Gariſon in <hi>Carliſle;</hi> drank the Kings health, and being asked why he would ſerve the parliament? he ſaid he did the King better ſervice then when he was of his party.</p>
+            <p>
+               <hi>Lawſon</hi> had a houſe pulled down by the Enemy in his Iſle by <hi>Keſwick,</hi> for which he preferred after an indictment againſt ſun<g ref="char:EOLhyphen"/>dry perſons, ſome not being near the place by twenty miles, which indictment was found upon <hi>Orfears</hi> evidence, againſt ſundry perſons that were not there, and forced to compound with <hi>Lawſon</hi> upon his own terms; One of credit told me, he was firſt named in that indictment, and how <hi>Lawſon</hi> ſwore that hee was the firſt put his hand to the pulling the houſe down, whereas in truth the man was not near the place by ten miles, and was forced to leave his habitation becauſe he would not aſſiſt the E<g ref="char:EOLhyphen"/>nemy in that work, and ſo deſired <hi>Lawſon</hi> to conſider his con<g ref="char:EOLhyphen"/>dition, but the man not being able to traverſe his indictment, the poor creature was conſtrained for purchaſing his peace, to give <hi>Lawſon</hi> ſix or ſeven pound; this he told me before ſundry credi<g ref="char:EOLhyphen"/>ble perſons, all which I beleeve to be true. It is credibly ſaid that <hi>Orfear</hi> did take and ſubſcribe that damnable Oath, called <hi>the Earl of Newcaſtles Oath for deſtroying the Parliament as traytors;</hi> and which <hi>Lawſon</hi> did likewiſe, as is proved when he was Lieu<g ref="char:EOLhyphen"/>tenant Colonel under Sir <hi>Patritius Curwin.</hi> But as the Fool makes a mock of ſin, ſo theſe make as light matter of Oaths, as all their practiſes demonſtrate.</p>
+            <p>
+               <pb n="17" facs="tcp:115238:10"/>
+For <hi>Garth,</hi> he was Q<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Sir <hi>Philip Muſgrave;</hi> and then Cornet to Col. Sir <hi>Henry Fletcher</hi> for the King, and did like<g ref="char:EOLhyphen"/>wiſe ſwear and ſubſcribe the aforenamed O th for the E. of <hi>New<g ref="char:EOLhyphen"/>caſtle;</hi> but upon reducing of that Country he was made by <hi>Bar<g ref="char:EOLhyphen"/>wis</hi> Agent for ſequeſtrations; in which imployment if he had dealt faithfully, he might have brought into the publike treaſury 20000 <abbr>
+                  <hi>l.</hi>
+               </abbr> which by his being Sollicitor at the ſame time for Delinquents was loſt; for while he was Agent for ſequeſtra<g ref="char:EOLhyphen"/>tions, Mr. <hi>Howard,</hi> Sir <hi>John Lowther,</hi> Mr. <hi>Dalſton, Richmond,</hi> and other great Delinquents, imployed him as their Steward to keep their Courts, their Attorney and Sollicitor in ſuits of Law, and ſome of them allowing him yearly ſtipends; ſo as little could be made of any diſcovery or concealment, moſt of the Commiſſio<g ref="char:EOLhyphen"/>ners for ſequeſtrations themſelves being likewiſe ſequeſtrable and men diſ-affected.</p>
+            <p>In the like caſes how officious he was to ſerve his friends, one of many may ſuffice. My father <hi>Vaux</hi> being in contempt for not anſwering my Bill, and for coſts upon over-ruling of his Plea, I came to <hi>Garth</hi> being Deputy Sheriff, for the return of the two Attachments againſt <hi>Vaux,</hi> he therewith had Orders and monies from <hi>Vaux</hi> to diſcharge the contempt, and ſue out a Commiſſion to anſwer in the country, and for the coſts by the next Poſt he ſhould receive direction from <hi>Vaux</hi> where to have money to pay me. I told him <hi>I</hi> could not truſt him, and would not forbear proſecution, unleſs he would go preſently to the fix Clarks Of<g ref="char:EOLhyphen"/>fice and pay the contempt money for not anſwering, and give Commiſſioners names to his Clark accordingly. <hi>Garth</hi> goes with me to Mr. <hi>Colburn</hi> in the fix Clarks Office, to him <hi>Garth</hi> gave names for Commiſſioners, <hi>Chriſtopher Richmond, Henry Da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res,</hi> and others, before Mr. <hi>Colburn</hi> paid me the contempt money and I joyned in the Commiſſion; and <hi>Garth</hi> in the preſence of M. <hi>Gol<g ref="char:EOLhyphen"/>burn</hi> declared, what he did was by <hi>Vaux</hi> direction: <hi>Garth</hi> ſues out the Commiſſion, but <hi>Vaux</hi> doth not execute, but comes to <hi>London,</hi> thinking to ſet his plea up again; the former Commiſſi<g ref="char:EOLhyphen"/>on is a bar to him, <hi>Garth</hi> muſt help or it cannot be, whereupon <hi>Garth</hi> makes <hi>affidavit,</hi> that he had no direction to ſue out a Com<g ref="char:EOLhyphen"/>miſſion or diſcharge the contempt, and what he did was with<g ref="char:EOLhyphen"/>out the privity or direction of <hi>Vaux.</hi> Upon this the Court refer<g ref="char:EOLhyphen"/>red it to the fix Clarks to examine whether the Commiſſion was
+<pb n="18" facs="tcp:115238:11"/>regularly ſued out, and upon hearing of Mr. <hi>Colburn,</hi> the fixe Clarks certified for me, and <hi>Garths</hi> wicked Oath was fruitleſs; the <hi>affidavit</hi> is filed.</p>
+            <p>
+               <hi>Henry Pearſon</hi> told me, <hi>Garth</hi> made an <hi>affidavit</hi> in the Upper Bench in Michaelmas Term laſt, which is upon the File; to which <hi>Pearſon</hi> made another contrary to it; ſo that one muſt be forſworn: Many others have complained to me of <hi>Garths</hi> deſpe<g ref="char:EOLhyphen"/>rate ſwearing and <hi>affidavits.</hi> For <hi>Dacres</hi> he could ſwallow the Earl of <hi>Newcastle</hi>'s damnable Oath; and <hi>I</hi> can moſt bear with him, not onely in reſpect of his malignancy, but for that <hi>Rich<g ref="char:EOLhyphen"/>mond</hi> and his wife had given him 160 <abbr>
+                  <hi>l.</hi>
+               </abbr> for doing ſuch like ſer<g ref="char:EOLhyphen"/>vices againſt my mother and me, as <hi>Richmonds</hi> wife hath in coun<g ref="char:EOLhyphen"/>cel told ſundry of her boſome friends.</p>
+            <p>Now what advantage could my mother have by my Oath, as to the miſtake of the moneth; or what loſſe or diſadvantage had or could <hi>Graham</hi> have by the ſame, or how <hi>I</hi> can be brought within the compaſs of the ſtatute of perjury, <hi>I</hi> am not afraid to ſubmit to the trial and judgement of the greateſt of my enemies, ſaving our <hi>Cumberland</hi> Juſtices of the peace and their Seſſion juries, and if the Gentlemens certificate on my b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>half be diſproved, or either my mother or <hi>I</hi> could have one half-peny profit, or the other ſo much loſs by my ſuppoſed miſtake, or that the ſame was wilful, knowingly, or corruptly done by m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, then let me have the like cenſure as <hi>Vaux</hi> his Bell with two tongues received for his moſt wicked, wilful, and corrupt perjury.</p>
+            <p>After my mother had recovered he Dowry, my buſineſs car<g ref="char:EOLhyphen"/>ried me to the Aſſizes after held at <hi>Appleby</hi> in <hi>Westmerland,</hi> thither am I perſued by theſe bloudy men; Being at Supper in my Inn, ſome there took occaſion of diſcourſe of the <hi>Scottiſh</hi> King (ſo called) and of an expected change; which I oppoſing, one <hi>Richard Graham</hi> my brother <hi>Grahams</hi> brother ſitting at the lower end of the table, uſed provoking words, whereat I ſeemed not to be moved; thereupon this fellow called me rogue, traitor, and ſaid that I was committed for treaſon againſt the King, and all thoſe that adhered to the Parliament were traitors, and the King would have his right again, and we ſhould be all puniſht as rogues and traitors: Truly it was much I could forbear, but paſſed the ſame over with other diſcourſe, as neglecting him, After Supper I did go into the Town, which <hi>Grahams</hi> brother
+<pb n="19" facs="tcp:115238:11"/>having notice of, with one of his Comrades purpoſed to have way-laid me, as after I underſtood, for while they were plotting againſt me, for no other end, then as I conceive, privately to murther me, if I had gone alone; my man over-heard <hi>Grahams</hi> Comrade ſay to the other, <hi>Muſgrave hath his man with him, and we ſhall not be able to deal with them both;</hi> thus the Lord delivered me from thoſe bloudy conſpirators: And the next morning I found this <hi>Graham</hi> lying in the Kitchin Chimney amongſt the aſhes aſleep, in a beaſtlike manner overcome with drink, in all this I acknowledged the Lords goodneſs to me.</p>
+            <p>At the <hi>Weſtmerland</hi> Aſſizes juſtice <hi>Puliſton,</hi> as at <hi>Carliſle,</hi> diſ<g ref="char:EOLhyphen"/>countenanced the honeſt juſtices there, and ſaid openly upon the Bench, he could own none for a juſtice but Col. <hi>Brigs,</hi> againſt whom the Lord did witnes before night, <hi>Brigs</hi> having overbur<g ref="char:EOLhyphen"/>thened himſelf with drink as he could not walk the ſtreets with<g ref="char:EOLhyphen"/>out reeling, and after ſome repoſe <hi>Brigs</hi> came to my lodging, where he ſpent the whole night in ſwearing and exceſſive drink<g ref="char:EOLhyphen"/>ing among a company of Cavaleers, but ſuch things are no ble<g ref="char:EOLhyphen"/>miſhes in our perſecuting juſtices; but when I come in particu<g ref="char:EOLhyphen"/>lar to ſet down the malignancy and miſgovernment of our juſti<g ref="char:EOLhyphen"/>ces made upon M. <hi>Howards</hi> recommendation to the Lord Prote<g ref="char:EOLhyphen"/>ctor, I may have farther occaſion to ſpeak of this Gentleman.</p>
+            <p>But before I will farther meddle with our Country Magiſtra<g ref="char:EOLhyphen"/>cy, I will finiſh my diſcourſe as to <hi>Richmond.</hi> This laſt Term, upon my removing the indictment of perjury againſt me into the Upper Bench, for the very ſame thing, meerly for vexation, hath he laid an information of perjury againſt me in the Capital Office, for the mans malice hath no bounds; to which I ſay no more, if I be faulty in the leaſt, let me ſuffer with the higheſt tranſgreſſour; but <hi>Richmonds</hi> dealings is no better towards other poor widdowes His fathers widdow by a wile he turned out of doors, who being friendleſs was drawn to take a ſmall annuity, which he failing to pay broke the womans heart, and ſhe ſoon died. This <hi>affidavit</hi> will diſcover his kindneſs to another wid<g ref="char:EOLhyphen"/>dow, whoſe petition I have to preſent to the Lord Protector, when a door ſhall be open to me, together with <hi>Richmonds</hi> bar<g ref="char:EOLhyphen"/>barous uſage of one <hi>Halton</hi> the Miniſter of <hi>Kurbythure,</hi> becauſe a Roundhead; and how he caried the man to <hi>York</hi> by vertue of his Commiſſion of Array, and how the poor man was brought by him to his grave, will require a more large diſcourſe.</p>
+            <p>
+               <pb n="20" facs="tcp:115238:12"/>
+The Affidavit of <hi>John Wambye</hi> in the behalf of <hi>Mary Bearſon</hi> Wid<g ref="char:EOLhyphen"/>dow, plaintiff <hi>Thomas Wilton</hi> and <hi>Henry Meſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> Defendants.</p>
+            <p>
+               <hi>WHereas there was a reference made by Juſtice</hi> Puliſton, <hi>of the difference betwixt the Plaintiff and the Defendant, upon the De<g ref="char:EOLhyphen"/>fendants petition to</hi> Chriſtopher Richmond <abbr>
+                  <hi>Eſq</hi>
+               </abbr>
+               <hi>and</hi> Thom. Laton <abbr>
+                  <hi>Eſq</hi>
+               </abbr>
+               <hi>two delinquents compounded, which ſaid referrees about the</hi> 20 <hi>of</hi> Septemb. <hi>last called the ſaid parties before them, and brought with them one</hi> Francis Siſſon <hi>a Justice of peace in</hi> Weſtmerl. <hi>Nephew to</hi> Ed<g ref="char:EOLhyphen"/>ward Siſſon <hi>who married</hi> Wiltons <hi>Aunt, and guardian to the ſaid</hi> Wilton, <hi>being an aged decrepit woman about</hi> 80 <hi>years old. Now this De<g ref="char:EOLhyphen"/>ponent depoſeth, that he was preſent at</hi> Broughan <hi>upon the meeting of the ſaid referrees and parties, and upon the ſaid widdow</hi> Pearſons <hi>ſeem<g ref="char:EOLhyphen"/>ing to decline the ſaid reference, the ſaid</hi> Richmom <hi>began to give the ſaid widdow very high and threatning language, telling her if ſhe would not ſubmit to the reference ſhe ſhould never get any thing, nor ſhould have never any benefit of the law; and for this Deponent who went thither with the ſaid</hi> Pearſon, <hi>he threatned to have his noſe ſlit and his ears cut off, and threatned one</hi> Iohn Gowling <hi>to undo him becauſe he was the widdowes friend and neighbour, and other bad language the ſaid</hi> Rich<g ref="char:EOLhyphen"/>mond <hi>gave then unto the ſaid</hi> Gowling, <hi>ſo as he well durſt not or would not ſtay longer to be abuſed with the ſaid</hi> Richmond; <hi>and preſently after the ſaid</hi> Gowlings <hi>departure, the ſaid widdow</hi> Pearſon <hi>was drawn by the threats and menaces of the ſaid Mr.</hi> Richmond, <hi>to ſubmit to the or<g ref="char:EOLhyphen"/>der and award of the ſaid referrees, with the <g ref="char:V">Ʋ</g>mperidge of the ſaid Ju<g ref="char:EOLhyphen"/>stice</hi> Siſſon, <hi>who ordered her for to take</hi> 25 <hi>ſhillings for her widdow-right and dower in a Tenement in</hi> Gulgath <hi>in the County of</hi> Cumber<g ref="char:EOLhyphen"/>land, <hi>and ſeal a releaſe thereof; Whereas her third part thereof was well worth twenty ſhillings by the year. And this Deponent knoweth the ſaid releaſe was made by her through the threats and menaces of the ſaid Mr.</hi> Richmond. Sworn the 8 of November, 1653.</p>
+            <p>
+               <hi>By</hi> John Wawbye.</p>
+            <p>John Page.</p>
+            <p>Therefore I will till a fitter opportunity forbear and proceed in order with our Country Juſtices of the peace in Cumberland and Weſtmerland; And firſt with Cumberland, whoſe names be, Sir <hi>Wilfride Lawſon, Charles Howard, William Briſcoe, John Barwis, Henry Tolſon, Thomas Cholmley, John Hudſon, Thomas Craister, Tho. Langhorn, Arthur Foſter, Lancelot Fletcher,</hi> Captain <hi>Coulſey.</hi>
+            </p>
+            <p>Sir <hi>Wilfride Lawſon</hi> did take the treaſonable Oath and Engage<g ref="char:EOLhyphen"/>ment
+<pb n="21" facs="tcp:115238:12"/>called the E. of Newcaſtles Oath, was a Lieuten. Colonel in armes for the King, cauſed one widdow <hi>Blaithwait</hi> to be car<g ref="char:EOLhyphen"/>ried in a Cart to Carliſle Goal, and there impriſoned, and firſt ſtript to her ſmock, urging to Sir <hi>Phil. Muſgrave</hi> that ſhe came from the Parliament as a Spy. Committed to priſon one <hi>George Foxe</hi> to cloſe Goal, and procured an order from the Judges, that none of his friends ſhould viſit him, for no other thing then be<g ref="char:EOLhyphen"/>ing a Preacher, without ever laying any charge againſt the man to this day.</p>
+            <p>After an Injunction ſerves for ſetling poſſeſſion, Sir <hi>Wilfride Lawſon</hi> ſome three moneths ſince put two of Sir <hi>Patritius Curwins</hi> tenants out of the poſſeſſion of their houſes and tenements, and thereby the men were forced to ſubmit to their Landlords will and pleaſure, after much money ſpent in ſetling their poſſeſſion.</p>
+            <p>Sir <hi>Wilfride Lawſon</hi> being Sheriff the laſt Summer Aſſizes at Carliſle, refuſed to arreſt <hi>Chriſtoph. Richmond</hi> upon a <hi>Capias ut le<g ref="char:EOLhyphen"/>gat.</hi> at my mothers ſuit, the warrant being delivered to him in <hi>Richmonds</hi> preſence, and his Fee tendered.</p>
+            <p>Sir <hi>Wilf. Lawſon</hi> and his under Sheriff, will not though requi<g ref="char:EOLhyphen"/>red return proceſſes of Contempts, as attachments and procla<g ref="char:EOLhyphen"/>mations, as for inſtance; 3 proclamations at my mothers ſuit, two attachments, one at my own ſuit, and another of priviledg, at M<hi rend="sup">r</hi> 
+               <hi>Nelſons</hi> ſuit, all returnable the laſt Term.</p>
+            <p>
+               <hi>Charles Howard</hi> a notorious delinquent, though at Worceſter he engaged againſt the enemy, yet his brother (ſuppoſed not without his privity) betraid a great part of M<hi rend="sup">r</hi> 
+               <hi>Howards</hi> Troop to the Scots King, with whom his brother went away, and be<g ref="char:EOLhyphen"/>fore M<hi rend="sup">r</hi> 
+               <hi>Howard</hi> came up to the laſt Parliament, Sir <hi>Pat. Curwen</hi> and moſt of his projecting Cavaliers was at his Houſe all night, which the well-affected are jealous was upon ſome deſigne, for the next day again they had another great meeting at Sir <hi>Patric-Curwens</hi> Caſtle, under colour of a hunting. M<hi rend="sup">r</hi> 
+               <hi>Howard</hi> uſed barbarous cruelty upon the body of the wife and daughter of <hi>Thom. Milb.</hi> one of the witneſſes examined to proue his delin<g ref="char:EOLhyphen"/>quency, by cauſing a Scottiſh Witch-finder, ſo tearmed in his preſence, to ſtrip the women, and thruſt great pins into ſundry parts of their naked bodies, to the amazement of the beholders, the women being of good repute, and never any charge brought againſt them.</p>
+            <p>Since the laſt Plot againſt the Lord Protector was diſcovered,
+<pb n="22" facs="tcp:115238:13"/>M. <hi>Howard</hi> hath liſted one <hi>Berriſwith</hi> to be one of the Lord Pro<g ref="char:EOLhyphen"/>tectors Life-guard, by the name of <hi>Hunt,</hi> that he might not be known by the name of <hi>Berriſwith,</hi> he and his friends being ſo much declared enemies to the Parliament, as Captain <hi>Thorp</hi> a man of credit, both by word and writing doth teſtifie; for other things I refer you to my Letter to the Speaker of the laſt Parliament, my Petition, Articles, and the proof of his Delinquency following: only I deſire notice may be taken of what manner of men he puts in Commiſſion of Peace with us.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="letter">
+                        <opener>
+                           <salute>SIR,</salute>
+                        </opener>
+                        <p>IT is not unknown to you, that when you were a Member in the former Parliament, I did not forbear for favour, kindred, greatneſſe of Perſons, or other by-reſpects, but freely and plainly laid open ſuch corrupt Members as ſat then in Parliament for our County, for which I underwent twenty moneths impriſon<g ref="char:EOLhyphen"/>ment, until I was releaſed upon Letters ſent to the Parliament from the Lord General <hi>Fairfax</hi> and his Councel of Officers: to this day no diſcouragements could hinder me in this way to diſ<g ref="char:EOLhyphen"/>charge my duty, ever avoiding ſidings, &amp; factions, and what elſe might tend to the diſturbance of publick Authority. But this day having read the Declaration of this Honorable Parliament, pro<g ref="char:EOLhyphen"/>miſing ſo many good things, and that without partiality or re<g ref="char:EOLhyphen"/>ſpect of perſons, your ultimate end and aim, next to the glory of God, to be for the good and peace of this Commonwealth; I am encouraged to repreſent unto the Parliament, the true and gene<g ref="char:EOLhyphen"/>ral ſtate and condition of my poor Country by this my Petition and Articles annexed, which otherwiſe I knew not how to make known to the Parliament, then by your hand, and yet durſt not be ſilent, leſt I be thought to be an Apoſtate, as others have pro<g ref="char:EOLhyphen"/>ved: If you fail to preſent this my Petition, the fault is yours and not mine, if your Honors ſuffer thereby, and the enemy with us kept ſtill up in Authority, to the much ſadding of the ſpirits of your ſuffering friends. However I am as I write,</p>
+                        <closer>
+                           <signed>
+                              <hi>Yours and the Commonwealths true Servant,</hi> John Muſgrave.</signed>
+                        </closer>
+                        <trailer>
+                           <hi>Directed to M.</hi> Rous, <hi>the Speaker of the Parl. and written in</hi> July, 1653.</trailer>
+                     </div>
+                     <div type="petition">
+                        <pb n="15" facs="tcp:115238:13"/>
+                        <head>To the Right Honourable the Parliament of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England.</hi>
+                        </head>
+                        <head type="sub">The Humble Petition of <hi>John Muſgrave</hi> of <hi>Milnerigg</hi> in the County of <hi>Cumberland.</hi>
+                        </head>
+                        <opener>Humbly ſheweth,</opener>
+                        <p>THat your Petitioner hath undergone much trouble, afflicti<g ref="char:EOLhyphen"/>on of impriſonment for his affection to the Parliament and Army, and of diſcovering and complaining of Delinquent Ma<g ref="char:EOLhyphen"/>giſtrates which oppreſſed the Parliament and Armies Cordial friends in <hi>Cumberland.</hi>
+                        </p>
+                        <p>That the Enemy of this Common-wealth while Delinquents are kept in Authority in <hi>Cumberland,</hi> are incouraged to hope for a time of change, and ſo boaſt, and if the happy ſucceſſes of the Army had not prevented the ſame, would have indangered inſur<g ref="char:EOLhyphen"/>rections, as often threatned in that Country.</p>
+                        <p>Your Petitioner on the behalf of himſelf, and your diſtreſſed and afflicted friends there, humby prays your Honours to take the Articles againſt Mr. <hi>Charls Howard</hi> a Member of this honou<g ref="char:EOLhyphen"/>rable Parliament, into your conſideration, and that ye will be pleaſed to remove Delinquents out of authority, and free your ſuffering friends from under the preſſures they lie under, by cor<g ref="char:EOLhyphen"/>rupt and Malignant Magiſtrates, all which in diſcharge of his duty, in affection to your Honours, and for the good of this country, your Petitioner is humbly bold to repreſent to your Honours, and what your Honours ſhall think meet to do, there<g ref="char:EOLhyphen"/>in he ſhal wholly acquieſſe, and indeavour to purſue and obſerve your Honours directions, And ſhall ever pray for your Ho<g ref="char:EOLhyphen"/>nours.</p>
+                     </div>
+                     <div type="articles">
+                        <head>Articles againſt <hi>Charls Howard</hi> Eſquire, a Member of Parliament, by <hi>John Musgrave.</hi>
+                        </head>
+                        <p>
+                           <hi>IMprimis.</hi> The ſaid Mr. <hi>Howard</hi> in the firſt war was in actual arms againſt the Parliament, and after he was taken under the protection of the Parliament falſified his ingagement, as by the Articles of Delinquen<g ref="char:EOLhyphen"/>cy proved, and hereunto annexed may appear.</p>
+                        <p n="2">
+                           <hi>2.</hi> That the ſaid Mr. <hi>Howard</hi> hath and doth imploy Captain <hi>Coul<g ref="char:EOLhyphen"/>ſey,</hi> a notorious Delinquent, a great plunderer, and oppreſſor of the well-affected, as his afterward of all his Courts, and the Agent in moſt of his
+<pb n="24" facs="tcp:115238:14"/>affairs; which <hi>Coulſey</hi> imployeth one <hi>Thomas Jackſon</hi> a ſequeſtrep Delinquent as his Deputy Steward, whereby the well-affected are much diſcouraged.</p>
+                        <p n="3">
+                           <hi>3.</hi> That the ſaid Mr. <hi>Howard</hi> procured an Order from the Juſtices of the Peace at the general Quarter Seſſions, helden for <hi>Cumberland,</hi> in <hi>September</hi> laſt, for levying <hi>500</hi>
+                           <abbr>l.</abbr> yearly of the Country, under pre<g ref="char:EOLhyphen"/>tence of the ſuppreſſing the Moſſe-Troopers, which he hath raiſed; but keepeth but about <hi>20</hi> of his own Tenants men, diſ-affected to the preſent Government, and Moſs-Troopers themſelves or ſo reputed, and most men of evil fame; whereas Mr. <hi>Howards</hi> Tenants in <hi>Gilſland</hi> are by their Tenure of their lands to do Border ſervice, againſt the Moſs-Troopers at their own charge.</p>
+                        <p n="4">
+                           <hi>4.</hi> That the ſaid Mr. <hi>Howard</hi> at the general Quarter Seſſions of the Peace, holden us at Penreth upon the return of the grand Jury by the Sheriff, being moſt of them compounded Delinquents, and ſo diſabled from executing any Office of Truſt, by an Act of Parliament made in Octo<g ref="char:EOLhyphen"/>ber before, declared openly that it was his judgement that Delinquents were not by that Act, diſabled to ſerve as Jurors; but afterwards in the beginning of February, <hi>1642.</hi> privately inquired of ſome Gentlemen, whe<g ref="char:EOLhyphen"/>ther the ſaid <hi>John Muſgrave</hi> would complain of the ſaid Delinquent Jurors upon breach of the ſaid Act, to which one of them anſwered they knew not, the ſaid Mr. <hi>Howard</hi> replied, the ſaid <hi>Muſgrave</hi> would do it, but we muſt oppoſe him, and we have no other way, then by alledging that we could not get otherwiſe able men to execute that imployment (or words to that effect) whereby it clearly appeared his judgement was, that the ſaid Jurors were incapable of that truſt and imployment, though he profeſſed openly otherwiſe in the ſaid Seſſions, and it is notoriouſly known, that the well-affected there, are much oppreſsed by Malignant and Delin<g ref="char:EOLhyphen"/>quent Jurors.</p>
+                        <p n="5">
+                           <hi>5.</hi> That the well-affected in the County of Cumberland are much diſ<g ref="char:EOLhyphen"/>couraged in regard none but a known Delinquent is ſummoned to ſit in Parliament for this Country, and little hopes they have of readreſſing their grievances, without ſome that have been conſtant and faithfull to the Par<g ref="char:EOLhyphen"/>liament and Armies Intereſt, be called to ſit in Parliament, and Delin<g ref="char:EOLhyphen"/>quents removed out of their publick imployments there, moſt of the Juſti<g ref="char:EOLhyphen"/>ces of the Peace and Commiſſioners of the Militia in <hi>Cumberland,</hi> being either ſequeſtrable for their Delinquency, or men diſ-affected to the Army.
+<gap reason="illegible: missing" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>
+                        </p>
+                     </div>
+                     <div type="charges">
+                        <pb n="25" facs="tcp:115238:14"/>
+                        <head>The Charge againſt <hi>Charles Howard</hi> Eſquire, <note place="margin">
+                              <hi>Penrith, Apr.</hi> 30. 1650.</note> High Sheriff of the County of <hi>Cumberland.</hi>
+                        </head>
+                        <div n="1" type="charge">
+                           <p>That the ſaid M<hi rend="sup">r</hi>. <hi>Howard</hi> having a Commiſſion to be a Colo<g ref="char:EOLhyphen"/>nel for the King in the laſt War, which he did confeſs was as large as any man had, did by vertue thereof ſend forth his Warrants to the ſeveral Conſtables of Gileſland, for their ſeveral Maſters, requiring all men above ſixteen and under threeſcore, to appear before him at Bramton, and the Conſtable to preſent their names upon Thurſday the tenth of Auguſt 1648. and the 14 and 16 day of the ſaid month following, at which ſeveral dayes the ſaid Mr. <hi>Howard</hi> came to the aboveſaid place accompanied with many ſol<g ref="char:EOLhyphen"/>diers in Armes under his command, and did muſter the men who appeared, and appointed Officers, and liſted many men under his command; and gave order for free quarter for his ſouldiers, and that the Conſtables ſhould levie moneys to pay for the horſes he took in every place.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>
+                                       <hi>Thom. Milburn.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Tho. Bell</hi> of <hi>Farlam.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Anthony Heviſide</hi> of <hi>Tawkin.</hi>
+                                    </item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                        <div n="2" type="charge">
+                           <p>Secondly, that the ſaid Maſter <hi>Howard</hi> took ten horſes for the ſaid ſervice in Hayton Pariſh, and proportionably in other pa<g ref="char:EOLhyphen"/>riſhes within Gileſland, according to the purvey.</p>
+                           <closer>
+                              <signed>Tho. Bell. Anth. Heviſide.</signed>
+                           </closer>
+                        </div>
+                        <div n="3" type="charge">
+                           <p>Thirdly, that the ſaid Mr. <hi>Howard</hi> did declare openly at the ſaid Muſter, that the men and horſe ſo levied was for the Kings ſervice, and that he was to meet the Prince at Berwick Saturday the 19 of Auguſt following.</p>
+                           <closer>
+                              <signed>Tho. Milburn. Tho. Bell.</signed>
+                           </closer>
+                        </div>
+                        <div n="4" type="charge">
+                           <p>Fourthly, the ſaid Mr. <hi>Howard</hi> ſent a letter to ten Cavaliers that had horſe and armes quartering upon <hi>Leonard Hodgſon,</hi> Con<g ref="char:EOLhyphen"/>ſtable of Hartleburn in Northumberland, that if they would ride in his Troup to Barwick, as Reformadoes, they ſhould have com<g ref="char:EOLhyphen"/>mand as the places fell, and they ſhould come to Francis <hi>Grahams</hi> of the Stone-houſe in <hi>Gilſland,</hi> and thereabouts, and they ſhould have quarter till they marched to Barwick.</p>
+                           <closer>
+                              <signed>Leonard Hodgeſhon.</signed>
+                           </closer>
+                        </div>
+                        <div n="5" type="charge">
+                           <p>Fifthly, the ſaid M<hi rend="sup">r</hi>. <hi>Howard</hi> repaired ſeveral times to the ene<g ref="char:EOLhyphen"/>mies Guarriſon at <hi>Carliſle,</hi> and walked abroad with his arms.</p>
+                           <closer>
+                              <signed>Richard Hutton.]</signed>
+                           </closer>
+                        </div>
+                        <div n="6" type="charge">
+                           <pb n="18" facs="tcp:115238:15"/>
+                           <p>Sixthly, at two ſeveral Muſters by Warrant, the ſaid Mr. <hi>Ho<g ref="char:EOLhyphen"/>ward,</hi> in the fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſt Article mentioned, after the ſaid M. <hi>Howard</hi> had made his Speeches to the Countrey, his Souldiers drew their ſwords and cried a King, a King.</p>
+                           <closer>
+                              <signed>Thomas Addiſon.</signed>
+                           </closer>
+                        </div>
+                        <div type="testimony">
+                           <p>This charge was preſented us, and the ſeveral Witneſſes to every Article proved the ſame, and ſubſcribed their names before us at <hi>Penrith</hi> the 1. of <hi>May</hi> 1650.</p>
+                           <closer>
+                              <signed>
+                                 <list>
+                                    <item>
+                                       <hi>Thomas Craiſter.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>John Muſgrave.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Jo. Briſtoe.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Tho. Langhorn.</hi>
+                                    </item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>William Briſcoe</hi> was a Committee man for the enemy, adviſed the other Juſtices being moſt of them Commiſſioners for Array, to commit Captain <hi>Crakanthrop,</hi> and me for not taking the oath of Supremacy, and adviſed the other Juſtices to diſobey our <hi>Ha<g ref="char:EOLhyphen"/>beas Corpus.</hi> When the Juſtices in open Seſſions would have relea<g ref="char:EOLhyphen"/>ſed one <hi>Nicholſon,</hi> committed by Col. <hi>Fletcher,</hi> for refuſing to take up Arms for the King againſt the Parliament, Mr. <hi>Briſcoe</hi> adviſed the Court not to do it without Collonel <hi>Fletchers</hi> directions; whereupon the poor man was held in priſon, till the ſiege of <hi>Carliſle</hi> was over. He is a great enemy to Sectaries, ſo called, and in his charge in Seſſions called them worſe then Papiſts, requiring the Jury to preſent them, and they would puniſh them.</p>
+            <p>That complaint being made to Mr. <hi>Briſcoe</hi> againſt <hi>Edward Ro<g ref="char:EOLhyphen"/>binſon</hi> a notorious Delinquent and one who articled againſt <hi>William Muſgrave</hi> for delivering Iartlepool to the Parl. For for<g ref="char:EOLhyphen"/>ging a falſe Verdict againſt one <hi>Wil. B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urbank,</hi> and for levying mo<g ref="char:EOLhyphen"/>nies upon that Verdict and other forg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ries, Mr. <hi>Briſco</hi> would not puniſh nor diſplace <hi>Robinſon</hi> for it, but keeps him ſtil to be Clark of the honour of Penrith and Inglewood Forreſt Courts, Maſter <hi>Briſcoe</hi> being learned Steward of the ſame Honours and Courts.</p>
+            <p>Complaints being made to Mr. <hi>Briſco</hi> for redreſs of a wrong<g ref="char:EOLhyphen"/>ful amerciament ſet upon <hi>Thomas Caſon</hi> a tradeſman, for ſelling goods in Penreth being no Corporation, and of the ſaid <hi>Robin<g ref="char:EOLhyphen"/>ſon</hi> for taking Caſons cloath of good value from him, would nei<g ref="char:EOLhyphen"/>ther give order to redreſs the amerciament, or <hi>Robinſon</hi> to reſtore Caſons cloth, tending to the deſtroying of Caſons trade and cre<g ref="char:EOLhyphen"/>dit.</p>
+            <p>
+               <hi>John Barwis</hi> to him I have little to ſay, then what is ſaid al<g ref="char:EOLhyphen"/>ready, onely he is known to be no friend to them they call Se<g ref="char:EOLhyphen"/>ctaries, and would deſtroy us.</p>
+            <p>
+               <pb n="19" facs="tcp:115238:15"/>
+               <hi>Henry Tolſon</hi> he hath ever been a Neutral, but known a Cava<g ref="char:EOLhyphen"/>lier hath his heart, and is no friend to the Parliament or Armies Friends.</p>
+            <p>
+               <hi>Thomas Cholmley</hi> did take the Earl of Newcaſtles Oath, ſent ou Horſe and Armes againſt the Parliament, and was in Arms him ſelf for the late King, for his delinquency and malignancy deſer<g ref="char:EOLhyphen"/>ted the former Parliament being a Member thereof. At the Lord Protectors fi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt going into Scotland openly declared, it was a<g ref="char:EOLhyphen"/>gainſt his conſcience to fight againſt the Scots, and committed ſundry to priſon under the name of Sectaries and preachers.</p>
+            <p>
+               <hi>Thom Craiſter</hi> a Commiſſioner for ſequeſtrations got moſt of his eſtate by that imployment, and being a Captain in Carliſle Gariſon, declared it was againſt his conſcience to fight againſt the Scots, and laid down his Commiſſion, raiſed near ten thou<g ref="char:EOLhyphen"/>ſand pound of Delinquents by way of Fines, for which he never yet accounted for, and without authority of parliament or the Lord General, continues ſtill a profeſſed Enemy to all ſuch as are called Sectaries or Independents, and impriſoned ſundry of them for their judgement.</p>
+            <p>
+               <hi>Thomas Langhorn</hi> did take and ſubſcribe the Earl of Newcaſtles Oath, a great countenancer of Malignant Miniſters, as Maſter <hi>Baldine</hi> of Penreth, who refuſed to pray for parliament and Ar<g ref="char:EOLhyphen"/>my while the Scots had an Army on foot; A petty Shop keeper very unfit for a Juſtice of Peace.</p>
+            <p>
+               <hi>John Hudſon,</hi> againſt whom I have nothing to object, if others have they may, but as he tells me he will rather undergo a fine then take the Oath with others in Commiſſion whom he cannot approve of.</p>
+            <p>
+               <hi>Lancelot Fletcher</hi> is a ſtranger to me, I never knew or heard he was any wayes active or appeared for the parliament, but by his Cavalier friends lived peaceably at home when the Enemy was in power.</p>
+            <p>Captain <hi>Coulſey</hi> what manner of man he is, I re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er to the Arti<g ref="char:EOLhyphen"/>cles againſt <hi>Howard.</hi>
+            </p>
+            <p>
+               <hi>Arthur Foſter</hi> a Delinquent, and in Armes bo h in the firſt and and ſecond War againſt the parliament, arraigned for murther, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ued out his pardon by means of Sir <hi>Richard Graham,</hi> to whoſe family he is a retainer.</p>
+            <p>
+               <pb n="28" facs="tcp:115238:16"/>
+For the Weſtmerland Juſtices I ſhall be brief, being not my buſineſs, and ſhould have been wholly ſilent, if the honeſt and ſuffering party there had not been concerned therein.</p>
+            <p>
+               <hi>Edward Briggs,</hi> noted for his malignancy to the Armies friends, and for his life and converſation I ſhall forbear to ſpeak, but very many ways unfit for that imployment, and ignorant of the Laws and Statutes of this Nation.</p>
+            <p>
+               <hi>Roger Bateman</hi> was ſo diſaffected to the change of Government from Kingly to Parl. as for a long time he refuſed to be ſworn a Juſtice, very paſſionate, and <hi>Strafford</hi> never more cruelly perſecuted the Puri<g ref="char:EOLhyphen"/>tans then he the Sectaries.</p>
+            <p>
+               <hi>Thomas Burton,</hi> a notorious Delinquent, was a Trooper under Sir <hi>Thomas Tildeſly,</hi> expreſſing his malignancy by drinking the Kings health; the groſs miſdemeanors in executing of his Office while he was Juſtice of Peace, the many quarrelſome and troubleſome ſuits, his op<g ref="char:EOLhyphen"/>preſſions, and unwarrantable and illegal commitments, his daily fre<g ref="char:EOLhyphen"/>quenting ranting Cavaliers company, are all proved before the Com<g ref="char:EOLhyphen"/>miſſioners for compounding, and much more, for which be was fined Fifty pounds, and diſabled to be a Juſtice of Peace. And whereas it is ſaid, that his father was plundered by Sir <hi>Philip Muſgrave,</hi> it is known that his father was under Sir <hi>Philip Muſgraves</hi> protection, and voluntary without compulſion lent large ſums of money to Sir <hi>Philip</hi> to carry on the War; and if there was a more ſcandalous and malignant Prieſt in that Countrey, let me receive blame and ſhame.</p>
+            <p>
+               <hi>Francis Siſſon,</hi> a man of a quiet ſpirit, but Prelatical, and no friend to the Armies Intereſt.</p>
+            <p>
+               <hi>Robert Skaife,</hi> a man no ways qualified for a Juſtice of Peace.</p>
+            <p>Sir <hi>Iohn Lowther,</hi> a compounded Delinquent, a man of able parts, but known to be of a Kingly ſpirit, and his ſon was in the laſt War, conceived not without his fathers privity; A Gentleman he is of great Eſtate, nearly related to me in kindred; but it ſtumbles all friends, that he ſhall now be thought fit to be a Juſtice of Peace in this Countrey, where he is ſo powerfull and known (though his wiſdome in this time teacheth him moderation) to wait for a change. I am afraid ſome of our Worthies are carried away with their <hi>Dalilah's,</hi> but let them be<g ref="char:EOLhyphen"/>ware they receive not <hi>Sampſons</hi> portion. I could ſay more, but will forbear for the preſent: Onely I could wiſh it were enquired into, How <hi>Iohn Thwaits,</hi> who hath knowledge to diſcharge his duty, not in a condition with power to oppreſs his Countrey; and <hi>Gervaſe
+<pb n="29" facs="tcp:115238:16"/>Benſon,</hi> who hath been thought fit to be truſted with ſuch high Com<g ref="char:EOLhyphen"/>mands, and great imployments, while there was trouble and danger, without any complaint, ſhould now be laid aſide. You that ſit at the Helm wil have the loſs, and thereby may unawares tacitely ſet up again <hi>Charls Stuarts</hi> Intereſt.</p>
+            <p>I deſire to draw to my journeys end; yet before I conclude, I muſt as <hi>Abraham</hi> ſaid to God, ſo ſay I, Let not my Earthly Lords be an<g ref="char:EOLhyphen"/>gry, and I will ſpeak but yet once; I have heard that his now Highneſs upon ſome diſcourſe of Lawyers, out of the ſenſe he had of the common calamity his brethren had lain under, ſhould ſometimes ſay, <hi>How ſad, and to be lamented a thing it was, that theſe men ſhould raiſe ſo great and vaſt Eſtates out of the ruines of a miſerable afflicted people, ſee<g ref="char:EOLhyphen"/>king Iustice and relief of wrongs, and the poor to be made more wret<g ref="char:EOLhyphen"/>ched by complaining, and ſustain more damage by their Advocates then by their Adverſaries who did the wrong?</hi> Is there no Balm in our <hi>Gilead?</hi> How long ſhall we wait for the long promiſed and ex<g ref="char:EOLhyphen"/>pected Reformation? the Law and Chancery proceedings be now no leſs burthen, terrour, and oppreſſion to the people of this Land, then Theeves and Highway-men be to the poor travellers in their journey; in every ſtreet I meet with ſad complainings; a man may ſpend his whole patrimony in Chancery; before he come to any iſſue, and then ſhal he be diſmiſſed again to Law: I have had in my poor mothers caſe againſt <hi>Richmond</hi> in Chancery, ſome 16 ſeveral orders and reports yet have not obtained a perfect anſwer: for 3 <abbr>
+                  <hi>l.</hi>
+               </abbr> coſts upon a ſecond in<g ref="char:EOLhyphen"/>ſufficient anſwer, I have ſpent above 12 <abbr>
+                  <hi>l.</hi>
+               </abbr> beſides travelling charges; and <hi>Richmond</hi> hath had two <hi>London</hi> journeys bout the ſame. O when ſhall we have an end of a Chancery ſuit? Shall a woman of 80 years of age be thus ſpent out, upon her Writs of Dower a Law? before we could come to declare, a year and a half was ſpent with Eſſoy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es and adjornments, meer delays and fopperies to waſt poor people, ſpin out time, and ſpend money.</p>
+            <p>In Chancery what Order made there to day is again to morr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> un<g ref="char:EOLhyphen"/>made; ſometime upon Petitions with falſe ſuggeſtions, more o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ten in Court without hearing the other ſide, ſo as the Court ſeems rather to be ſet to make work for the Regiſters and Lawyers, by multiplying Or<g ref="char:EOLhyphen"/>ders<g ref="char:punc">▪</g> and differences, then to ſettle differences, or determine cauſes, while the poor ſui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors have any money to purchaſe Orders, or give fees to Lawyers. If I be called to accompt for this, I ſhall be ready to give particular inſtances, in my own mothers, and many other of my
+<pb n="22" facs="tcp:115238:17"/>ſuffering friends: The waſted condition of my ſelf doth conſtrain me to ſigh out theſe my groans and complaints; which if the ſame be ta<g ref="char:EOLhyphen"/>ken into conſideration, and receive timely redreſs and relief, as the ſame will much conduce to the praiſe of thoſe in power, ſecurity to our Countrey, and the good of a poor afflicted people; ſo ſhall he with all thankfullneſs acknowledg the ſame, who truly is as he writes,</p>
+            <closer>
+               <signed>
+                  <hi>A true Servant and Wel-wiſher to his Countrey,</hi> JOHN MUSGRAVE.</signed>
+               <dateline>
+                  <date>6. 3. Mon. 1653.</date>
+               </dateline>
+            </closer>
+            <epigraph>
+               <q>Pulchrum eſt pro Patria mori.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
